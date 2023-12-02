@@ -1,0 +1,10 @@
+#clock {      
+         
+    border:1px solid black;
+    display: inline-block;
+    padding: 5px 15px;
+}
+
+b {
+    font-size: 30px;
+}

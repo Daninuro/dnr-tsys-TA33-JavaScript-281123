@@ -1,0 +1,16 @@
+table {
+    border-collapse: collapse;
+    width: 80%; /* Puedes ajustar el ancho de la tabla según tus preferencias */
+    margin: 20px auto; /* Centra la tabla en la página */
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px; /* Añade un relleno para separar el contenido del borde */
+    text-align: center; /* Centra el texto en las celdas */
+}
+
+p {
+    cursor: pointer;
+    text-align: center; /* Centra el texto del párrafo */
+}
